@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>aws amplify</h1>
+      <h1>aws amplify CHAVI </h1>
     </>
   )
 }
